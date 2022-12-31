@@ -22,4 +22,5 @@ makedocs(;
 deploydocs(;
     repo="github.com/anirudh2/Curious.jl",
     devbranch="main",
+    devurl="latest",
 )

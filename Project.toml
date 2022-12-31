@@ -1,7 +1,7 @@
 name = "Curious"
 uuid = "741a19ed-8d4f-4cea-9512-58e12c587a0e"
 authors = ["Anirudh A. Patel"]
-version = "0.1.0"
+version = "0.0.0"
 
 [compat]
 julia = "1.8"
